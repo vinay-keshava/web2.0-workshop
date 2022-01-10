@@ -1,0 +1,61 @@
+ body {  
+        background-color: lightblue;  
+    }  
+    
+   
+     h1 {  
+        color: navy;  
+        margin-left: 2000px;  
+         }   
+       
+    h2 {
+    color: green;
+    font-family: arial;
+    
+	}
+	
+    h3 {
+    color: yellow;
+    border: 1px solid blue;
+   
+      }
+      
+    h4 {
+    color: purple;
+    border: 1px solid red;
+   
+        }
+        
+    h5 {
+    color: brown;
+    border: 1px solid brown;
+   
+       }
+       
+    h6 {
+    color: gray;
+    border: 1px solid black;
+    
+       } 
+   
+  p{
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+   }
+   
+
+.p1 {
+    color: blue;
+    font-family: arial;
+    font-size: 300%;
+}
+
+#p01 {
+    color: magenta;
+    font-family: timesnewroman;
+    font-size: 300%;
+}
+
+
+

@@ -1,0 +1,37 @@
+body{
+background: rgb(21,23,28);
+background: linear-gradient(90deg, rgba(21,23,28,0.9654062308517157) 0%, rgba(195,199,218,1) 0%, rgba(74,93,97,1) 100%, rgba(0,212,255,1) 100%);}
+.topbar{
+	position:fixed;
+	background-color :  #1a3653;
+	right: 80px;
+	top: 120px;
+	left: 300px;	
+	align :center;
+	height : 40px;
+	font-size: 30px;
+	border-radius:15%;
+	}
+
+	
+	
+	.topbar a{
+	text-decoration:none;
+	color: #e2e5e8;
+	word-spacing: 5px;
+	}
+img
+{height:150px;
+	width: 150px;
+
+}
+
+
+.admi pre 
+{
+	position: fixed;
+	left: 1650px;
+	top: 300px;
+	font-size: 20px;
+}
+
